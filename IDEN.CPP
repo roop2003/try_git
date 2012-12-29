@@ -16,7 +16,7 @@ void main()
 			  if(data[i]=='i'||data[i]=='c'){
 			  s=2;}
 			  else{
-			 // printf("%c",data[i]);
+			  printf("%c",data[i]);
 			  }
 			  break;
 		   case 2:
@@ -24,7 +24,7 @@ void main()
 			 s=3;}
 			  else{
 			  s=1;
-			  //printf("%c",data[i]);
+			  printf("%c",data[i]);
 			  }
 
 			 break;
@@ -38,7 +38,5 @@ void main()
 			  break;
 		   }
 		}
-		/* printf("other than keywords we have ");
-		 for(i=0;i<strlen(op);i++)
-		 printf("%c",op[i]);*/
+		
 	    getch(); }
