@@ -38,5 +38,5 @@ void main()
 					j++;s=3;
 				}break;
 			}
-		}
+	getch();	}
 	}
